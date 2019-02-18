@@ -1,0 +1,1 @@
+## MongoDB useful examples
